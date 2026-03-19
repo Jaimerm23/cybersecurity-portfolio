@@ -10,7 +10,7 @@ This portfolio demonstrates my ability to:
 
 All projects are performed in controlled lab environments simulating real-world scenarios.
 
-## 🔍 Featured Project
+## 🔍 Security Investigations
 
 ### Simulated Ransomware Investigation
 End-to-end incident analysis including detection, investigation, findings, and containment recommendations.
@@ -25,13 +25,13 @@ Analysis of a suspicious email to identify sender impersonation, social engineer
 
 👉 [View Investigation](./phishing-email-investigation.md)
 
-## 🛡️ Detection Content
+---
 
 ### Ransomware Detection Rule
+
 Detection logic designed to identify suspicious high-volume file encryption activity.
 
 👉 [View Detection Rule](./ransomware-detection.yaml)
-
 ---
 
 ## 🧠 Core Skills
