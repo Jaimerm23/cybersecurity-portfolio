@@ -15,6 +15,12 @@ Investigate a suspicious email reported by a user to determine whether it repres
 
 ---
 
+## Tools Used
+
+- Splunk
+- Microsoft Sentinel
+- Windows Event Logs
+
 ## Detection Summary
 
 A suspicious email was reported for review after the recipient noticed unusual language, a sense of urgency, and a request to click a link to verify account information.
