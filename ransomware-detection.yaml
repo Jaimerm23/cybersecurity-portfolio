@@ -1,3 +1,12 @@
+# Purpose:
+# Detect abnormal high-volume file modifications that may indicate ransomware activity.
+#
+# Use Case:
+# This rule helps identify suspicious encryption behavior and triggers investigation for potential ransomware incidents.
+#
+# Analyst Action:
+# Review affected host, analyze process activity, and isolate system if malicious behavior is confirmed.
+
 title: Potential Ransomware Activity
 id: 11111111-1111-1111-1111-111111111111
 description: Detects high-volume file encryption patterns
