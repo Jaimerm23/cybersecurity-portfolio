@@ -8,6 +8,8 @@ This portfolio demonstrates my ability to:
 - Analyze logs and system activity
 - Document findings and recommend response actions
 
+All projects are performed in controlled lab environments simulating real-world scenarios.
+
 ## 🔍 Featured Project
 
 ### Simulated Ransomware Investigation
