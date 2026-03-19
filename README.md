@@ -1,10 +1,12 @@
 # Jaime Martinez | Cybersecurity Analyst Portfolio
 
-Cybersecurity-focused professional with hands-on experience in incident investigation, log analysis, and threat detection within simulated SOC environments.
+Cybersecurity-focused professional with hands-on experience investigating suspicious activity, analyzing security events, and documenting findings in structured SOC-style workflows.
 
-This portfolio demonstrates my ability to identify suspicious activity, analyze security events, document findings, and recommend response actions.
-
----
+This portfolio demonstrates my ability to:
+- Identify anomalous behavior
+- Investigate potential security incidents
+- Analyze logs and system activity
+- Document findings and recommend response actions
 
 ## 🔍 Featured Project
 
