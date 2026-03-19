@@ -14,7 +14,12 @@ Investigate potential ransomware-related activity identified within a simulated 
 - Endpoint behavior and file activity review
 
 ---
+## Tools Used
 
+- Splunk
+- Microsoft Sentinel
+- Windows Event Logs
+  
 ## Detection Summary
 
 Suspicious activity was identified based on behavior consistent with possible ransomware execution, including abnormal file modification patterns and indications of unauthorized encryption activity on a host system.
