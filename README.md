@@ -19,6 +19,12 @@ End-to-end incident analysis including detection, investigation, findings, and c
 
 ---
 
+### Phishing Email Investigation
+
+Analysis of a suspicious email to identify sender impersonation, social engineering indicators, malicious link behavior, and recommended response actions.
+
+👉 [View Investigation](./phishing-email-investigation.md)
+
 ## 🛡️ Detection Content
 
 ### Ransomware Detection Rule
