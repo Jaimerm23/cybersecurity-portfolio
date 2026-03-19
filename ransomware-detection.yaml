@@ -8,7 +8,7 @@ logsource:
   product: windows
 detection:
   selection:
-    EventID: 466OPLE3
+    EventID: 4663
     TargetFilename|endswith:
       - '.encrypted'
       - '.locked'
