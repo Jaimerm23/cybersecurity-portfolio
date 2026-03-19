@@ -2,7 +2,7 @@
 
 ## Objective
 
-Investigate a suspicious email reported by a user to determine whether it represents a phishing attempt, identify indicators of compromise, and recommend appropriate response actions.
+Investigate a suspicious email was reported by a user after noticing unusual urgency and a request to verify account information.
 
 ---
 
